@@ -13,3 +13,5 @@ REFERENCES:
 1. https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/
 2. https://developer.chrome.com/extensions/getstarted
 
+NOTE: I didn't realize it before but there is already such plugins on the Chrome Store. 
+
